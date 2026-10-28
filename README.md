@@ -33,7 +33,7 @@ Android SDK, minimum API level as set in the project
 Android emulator or a physical Android phone
 Running the app
 Clone the repository:
-   git clone https://github.com/<your-username>/RegObr.git
+   git clone https://github.com/aljo08/Obrazec.git
 Open the project in Android Studio (File → Open).
 Wait for the Gradle sync to finish.
 Select a device and click Run.
