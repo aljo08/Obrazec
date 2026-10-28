@@ -41,12 +41,12 @@ Running on a physical phone
 Enable Developer options (tap Build number 7 times in Settings → About phone).
 Turn on USB debugging (or Wireless debugging on Android 11+).
 Connect the phone, confirm the debugging prompt and select it in the device drop-down in Android Studio.
-Screenshots
 
-Add screenshots of the form and the dialog here, for example:
+Screenshots:
 
 ![Form](screenshots/Screenshot-podatki)
 ![Dialog](screenshots/Screenshot-results)
-Author
+
+Aljaž Brecelj
 
 Student project – Mobile Application Development, Task 2.
