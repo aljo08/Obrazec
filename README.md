@@ -44,8 +44,8 @@ Connect the phone, confirm the debugging prompt and select it in the device drop
 
 Screenshots:
 
-![Form](screenshots/Screenshot-podatki)
-![Dialog](screenshots/Screenshot-results)
+![Form](screenshots/Screenshot-podatki.png)
+![Dialog](screenshots/Screenshot-results.png)
 
 Aljaž Brecelj
 
